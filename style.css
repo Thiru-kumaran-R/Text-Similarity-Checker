@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Delicious+Handrawn&family=McLaren&family=Poppins&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins';
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(40deg , #219C90,#78D6C6);
+}
+
+.container{
+    height: 440px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+input{
+    display: block;
+    height: 35px;
+    width: 80%;
+    padding-left: 10px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+input:focus,input:valid{
+    outline: none;
+    font-size: 16px;
+}
+
+label{
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+}
+
+button{
+    height: 40px;
+    width: 80%;
+    margin-bottom: 10px;
+    cursor: pointer;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 900;
+    border: none;
+    border-radius: 4px;
+    background: linear-gradient(40deg , #219C90,#78D6C6);
+}
+
+.result{
+    margin-bottom: 40px;
+}
