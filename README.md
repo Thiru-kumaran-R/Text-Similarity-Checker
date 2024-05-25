@@ -7,4 +7,4 @@ This project is developed using HTML, CSS, Javascript.It assists us in determini
 ## Demo
 
 Try this project in the following url :
-https://thirukumaran05.github.io/Text-Similarity-Checker/
+https://thiru-kumaran-r.github.io/Text-Similarity-Checker/
